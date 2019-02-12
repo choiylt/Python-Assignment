@@ -1,0 +1,10 @@
+Write this to file.
+3521001
+3521001
+Election Results
+Total votes: 3521001
+Khan: 
+Correy:
+Li:
+O'Tooley:
+Winner: Khan
